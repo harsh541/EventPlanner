@@ -12,3 +12,11 @@ The events will be linked to a Facebook event page or an Eventbrite page.
 
 Idea 2:
 
+A cheap flight finder that based on your interests and profile information like user location.
+
+The project will use Facebook login and profile information to organize suggested flights using Hitchhiker Flights API. (other APIs used to determine locations to us in Hitchhiker)
+
+For example, it will use key profile information  (likes etc.) against what different destinations have to offer and will provide a personal assortment for upcoming flights at their cheapest times.
+
+
+
